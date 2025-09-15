@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Recursive-recursion/Recursive-recursion.iml" filepath="$PROJECT_DIR$/Recursive-recursion/Recursive-recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array/array.iml" filepath="$PROJECT_DIR$/array/array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bankSystem/bankSystem.iml" filepath="$PROJECT_DIR$/bankSystem/bankSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dataStructer/dataStructure.iml" filepath="$PROJECT_DIR$/dataStructer/dataStructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example.iml" filepath="$PROJECT_DIR$/example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fileHandling/fileHandling.iml" filepath="$PROJECT_DIR$/fileHandling/fileHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linkedList/linkedList.iml" filepath="$PROJECT_DIR$/linkedList/linkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop/oop.iml" filepath="$PROJECT_DIR$/oop/oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/queue/queue.iml" filepath="$PROJECT_DIR$/queue/queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string/string.iml" filepath="$PROJECT_DIR$/string/string.iml" />
+    </modules>
+  </component>
+</project>
